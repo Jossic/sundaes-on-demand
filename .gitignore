@@ -26,3 +26,6 @@ yarn-error.log*
 /sundae-server/nodes_modules
 /sundae-server/config.js
 /sundae-server/.DS_Store
+
+.vscode
+.eslintcache
